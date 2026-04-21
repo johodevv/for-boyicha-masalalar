@@ -106,3 +106,37 @@
 #     if(x>0):
 #         soni+=1
 # print(soni)
+
+
+# a sonini 5chi darajasi
+
+# a=2
+# p=1
+
+# for x in range(5):
+#     p=p*a 
+# print(p)
+
+
+# a sonini n chi darajasi
+
+# a=2
+# n=6
+# p=1
+
+# for x in range(n):
+#     p=p*a 
+# print(p)
+
+
+# ketma ketlik
+
+a=3
+n=4
+s=0
+sum=0
+
+for x in range(n):
+    s=(s*10)+a
+    sum+=s
+print(sum)
