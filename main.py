@@ -131,12 +131,60 @@
 
 # ketma ketlik
 
-a=3
-n=4
-s=0
-sum=0
+# a=3
+# n=4
+# s=0
+# sum=0
 
-for x in range(n):
-    s=(s*10)+a
-    sum+=s
-print(sum)
+# for x in range(n):
+#     s=(s*10)+a
+#     sum+=s
+# print(sum)
+
+
+
+# murakkab son
+
+# a=15
+# sum=0
+
+# for x in range(1,a):
+#     if(a%x==0):
+#         sum+=x
+# if(a==sum):
+#     print(True)
+# else:
+#     print(False)
+
+
+
+# ketma ketlik kvadrati
+
+# n=6
+# sum=0
+
+# for x in range(1,n+1):
+#     sum+=x**2
+# print(sum)
+
+
+# armstrong raqam
+
+
+
+
+
+# tub son 
+
+# a=8
+# sum=0
+
+# for x in range(1,a+1):
+#     if(a%x==0):
+#         sum+=1
+# if(sum==2):
+#     print(True)
+# else:
+#     print(False)
+
+
