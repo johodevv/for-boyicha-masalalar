@@ -188,3 +188,25 @@
 #     print(False)
 
 
+# son nechi honali
+
+# a=333
+# soni=1
+
+# while a>=10:
+#     soni+=1
+#     a=a/10
+# print("sonni xonalari soni:" , soni)
+
+
+
+# raqamlar yigindisi
+
+# a=321
+# sum=0
+
+# while a>0:
+#     sum+=a%10
+#     a=a//10
+# print("raqamlar yigindisi:" , sum)
+
